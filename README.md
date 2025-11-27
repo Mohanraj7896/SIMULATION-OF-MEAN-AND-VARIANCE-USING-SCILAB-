@@ -103,13 +103,14 @@ __Calculation:__
 
 __OUTPUT GRAPH:__
 
-![WhatsApp Image 2025-11-23 at 06 49 51_82e9e344](https://github.com/user-attachments/assets/fc57e2db-025d-4be8-819e-2e91ed485ac7)
+<img width="963" height="1280" alt="image" src="https://github.com/user-attachments/assets/b95cda48-7925-450a-ac0c-5a7547142907" />
+
 ![WhatsApp Image 2025-11-23 at 06 50 05_e1e2fcd1](https://github.com/user-attachments/assets/b3502e1e-2929-4c69-b583-9e9a1e9a67b2)
 
 
 
 __RESULT:__
+<img width="1280" height="551" alt="image" src="https://github.com/user-attachments/assets/bb5aa656-6813-4e30-ad0a-94a8e82f8b5a" />
 
-![WhatsApp Image 2025-11-23 at 07 34 06_f4bdf1d7](https://github.com/user-attachments/assets/f66b1c1f-d7c9-451c-bf10-77e7486b2681)
 
 
